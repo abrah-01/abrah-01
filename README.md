@@ -43,11 +43,19 @@ Soy un **Desarrollador Full Stack** apasionado por la tecnología, la cibersegur
 
 ---
 
+## 🐍 Gráfico de Contribuciones
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abrah-01/abrah-01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+---
+
 ## 🏆 Logros y Reconocimientos en GitHub
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abraham2175934105&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos de GitHub" />
+    <img src="https://github-profile-repo.vercel.app/?username=abrah-01&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos de GitHub" />
   </a>
 </div>
 
@@ -57,16 +65,16 @@ Soy un **Desarrollador Full Stack** apasionado por la tecnología, la cibersegur
 
 <div align="center">
   <!-- ESTADÍSTICAS PRINCIPALES -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Abraham2175934105&show_icons=true&theme=radical&hide_border=true&title_color=3B82F6" alt="Estadísticas Principales" height="195" />
+  <img src="https://github-stats-extended.vercel.app/api?username=abrah-01&show_icons=true&theme=radical&hide_border=true&title_color=3B82F6" alt="Estadísticas Principales" height="195" />
   <!-- GITHUB STREAK STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abraham2175934105&theme=radical&hide_border=true&stroke=0000&background=0D1117" alt="Racha de GitHub" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrah-01&theme=radical&hide_border=true&stroke=0000&background=0D1117" alt="Racha de GitHub" height="195" />
 </div>
 
 <br>
 
 <div align="center">
   <!-- LENGUAJES MÁS USADOS -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham2175934105&layout=compact&theme=radical&hide_border=true&title_color=3B82F6" alt="Lenguajes más usados" width="50%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abrah-01&layout=compact&theme=radical&hide_border=true&title_color=3B82F6" alt="Lenguajes más usados" width="50%" />
 </div>
 
 ---
